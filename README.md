@@ -27,6 +27,7 @@
 ## ❌ No Data Base Used. 
 ## ❌ All Data will be reset after exiting this program.
 
-<div aligh = 'center'>
-   # Thank you For Visiting This Repository 
+<div align = "center">
+   
+# Thank you For Visiting This Repository 
 <div>
